@@ -25,10 +25,10 @@ main() {
    a = 5;
    b = 20;
    if( a <= b ) {
-      cout << "Line 4 - a is either less than \ or equal to  b" << endl ;
+      cout << "Line 4 - a is either less than \\ or equal to  b" << endl ;
    }
    if( b >= a ) {
-      cout << "Line 5 - b is either greater than \ or equal to b" << endl ;
+      cout << "Line 5 - b is either greater than \\ or equal to b" << endl ;
    }
    return 0;
 }
